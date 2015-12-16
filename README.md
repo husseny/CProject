@@ -34,3 +34,7 @@ Hamstrings and quads are always together.
 Back nor chest cannot be with hamstrings and quad
 muscles aren’t repeated within the same workout
 READ ME is needed
+
+
+Query:
+food(chkBr, 21.2, 0, 2.5, 3, F3, 0), food(lnBeef, 20, 0, 6, 3, F2, 0), food(cheddarChs, 25, 1.3, 33, 1, F1, 0), food(swissChs, 27, 5, 28, 5, F4, 0),food(broccoli, 2.8, 7, 0.4, 1, F5, 0), food(tomato, 0.9, 3.9, 0.2, 1, F6, 0) , food(spinach, 2.9, 3.6, 0.4, 5, F7, 0), food(potato, 2, 17, 0.1, 1, F8, 0), food(eggWht, 11, 0.7, 0.2, 1, F9, 0), food(fullFatMilk, 3.3, 4.6, 3.7, 3, F10, 0), food(honey,0.3, 82, 0, 3, F11, 0), food(peanutButter, 25, 20, 50, 1, F12, 0), dailyIntake(200, 200, 200, 3, 1).

@@ -1,5 +1,8 @@
 DEGWY's Project
 
+Contributors:
+Abdullrahman Elhusseny, Ahmed Magdy, Ahmed Moataz
+
 Queries for nutritionCHR.pl:
 
 food(chkBr, 21.2, 0, 2.5, 3, F3, 0), food(lnBeef, 20, 0, 6, 3, F2, 0), food(cheddarChs, 25, 1.3, 33, 1, F1, 0), food(swissChs, 27, 5, 28, 5, F4, 0),food(broccoli, 2.8, 7, 0.4, 1, F5, 0), food(tomato, 0.9, 3.9, 0.2, 1, F6, 0) , food(spinach, 2.9, 3.6, 0.4, 5, F7, 0), food(potato, 2, 17, 0.1, 1, F8, 0), food(eggWht, 11, 0.7, 0.2, 1, F9, 0), food(fullFatMilk, 3.3, 4.6, 3.7, 3, F10, 0), food(honey,0.3, 82, 0, 3, F11, 0), food(peanutButter, 25, 20, 50, 1, F12, 0), food(wheyProtein, 80, 10, 3.3, 5,F13, 0), food(wheyProtein, 80, 10, 3.3, 4, F14, 0), food(tuna, 26, 0, 1, 4, F15, 0), food(pear, 0.4, 15, 0.1, 4, F16, 0), food(banana, 1.1, 23, 0.3, 4, F17, 0), food(skimmedMilk, 3.4, 5, 0.1, 1, F18, 0), food(shrimp, 20, 0, 0.5, 3, F19, 0), food(oliveOil, 0, 0, 100, 3, F20, 0), food(multiGrainBread, 13, 43, 4.2, 3, F21, 0), food(swtPotato,1.6, 20, 0, 2, F22, 0), food(eggWht, 11, 0.7, 0.2, 2, F23, 0),  dailyIntake(500, 500, 500, 4, 1).
